@@ -36,3 +36,22 @@
     }
 
 }
+
+@media screen and (max-width: 500px) {
+
+  .comparison {
+
+    &-data {
+
+      &__item {
+        
+        &_hidden{
+          display: none;
+        }
+
+      }
+
+    }
+  }
+
+}

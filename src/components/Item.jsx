@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Item = ({ data }) => {
+const Item = ({ data, classHidden }) => {
   return (
-    <div className='comparison-data__item'>{data}</div>
+    <div className={'comparison-data__item ' + classHidden}>{data}</div>
   );
 
 }

@@ -2,10 +2,8 @@
   max-width: 1330px;
   margin: 0 auto;
   border-right: 1px solid #ccc;
-
-  &:last-child {
-    border-bottom: 1px solid #ccc;
-  }
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 25px;
 
   &-title {
     text-align: center;

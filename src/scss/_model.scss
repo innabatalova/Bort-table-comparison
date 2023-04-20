@@ -8,7 +8,7 @@
   width: 100%;
 
   &__img {
-    width: 150px;
+    width: 120px;
     margin-bottom: 10px;
   }
 
@@ -20,6 +20,7 @@
     line-height: 18px;
     color: #333333;
     text-decoration-color: #d9760f;
+    text-align: center;
 
     &:hover {
       color: #0e0d0d;
@@ -29,8 +30,9 @@
   }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 860px) {
   .comparison-model {
+    padding: 5px 0;
 
     &__img {
       max-width: 120px;
@@ -40,10 +42,9 @@
 
 @media screen and (max-width: 675px) {
   .comparison-model {
-    padding: 5px 0;
 
     &__img {
-        max-width: 70px;
+        max-width: 60px;
       }
 
     &__link {
