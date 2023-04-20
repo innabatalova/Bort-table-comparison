@@ -1,0 +1,21 @@
+.comparison {
+  max-width: 1330px;
+  margin: 0 auto;
+  border-right: 1px solid #ccc;
+
+  &:last-child{
+    border-bottom: 1px solid #ccc;
+  }
+
+  &-title {
+    text-align: center;
+    padding: 10px 0;
+    font-family: 'Russo One';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    background-color: #d9760f;
+  }
+}

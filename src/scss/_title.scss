@@ -1,0 +1,35 @@
+.comparison {
+
+  &-data {
+
+    &__title {
+      text-align: center;
+      padding: 10px 0;
+      font-family: "Russo One";
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 16px;
+      color: #333333;
+      border-top: 1px solid #ccc;
+      border-left: 1px solid #ccc;
+    }
+  }
+
+}
+
+
+@media screen and (max-width: 740px){
+  .comparison {
+  
+      &-data {
+  
+        &__title {
+          padding: 5px 0;
+          font-size: 12px;
+          line-height: 16px;
+        }
+      }
+  
+    }
+}

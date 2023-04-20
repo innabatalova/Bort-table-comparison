@@ -1,0 +1,38 @@
+.comparison {
+
+  &-data {
+
+    &__item {
+      font-family: Roboto;
+      font-weight: 300;
+      font-size: 14px;
+      line-height: 20px;
+      padding: 10px 0;
+      border-top: 1px solid #ccc;
+      border-left: 1px solid #ccc;
+      width: 100%;
+      text-align: center;
+
+      &_grey {
+        background-color: #f5f5f5;
+      }
+    }
+
+  }
+}
+
+@media screen and (max-width: 740px){
+
+  .comparison {
+  
+      &-data {
+  
+        &__item {
+          font-size: 11px;
+          line-height: 14px;
+        }
+  
+      }
+    }
+
+}
