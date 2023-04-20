@@ -10,7 +10,9 @@ import YesIcon from './YesIcon';
 const Table = () => {
   return (
     <div className='comparison'>
-      <Wrapper title={<div className="comparison-title">МОЙКИ ВЫСОКОГО ДАВЛЕНИЯ СЕРИИ KEX</div>}
+      <Wrapper classHead='comparison-wrapper_head' title={<div className="comparison-title">МОЙКИ ВЫСОКОГО ДАВЛЕНИЯ СЕРИИ KEX</div>}
+        classHeadTitle='comparison-wrapper__title_head'
+        classHeadData='comparison-wrapper__data_head'
         data={
           [<Model src='https://bort-global.ru/images/detailed/629/97004cc1-9277-11e9-a62c-a4bf01648335.jpg'
             href='https://bort-global.ru/klining/moyki-vysokogo-davleniya/moyka-vysokogo-davleniya-bort-kex-2500/'

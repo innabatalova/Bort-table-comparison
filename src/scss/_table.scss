@@ -3,7 +3,7 @@
   margin: 0 auto;
   border-right: 1px solid #ccc;
 
-  &:last-child{
+  &:last-child {
     border-bottom: 1px solid #ccc;
   }
 
@@ -17,5 +17,11 @@
     line-height: 18px;
     color: #FFFFFF;
     background-color: #d9760f;
+
+    &_head {
+      grid-row-start: 1;
+      grid-column-start: 2;
+      grid-column-end: 2;
+    }
   }
 }
