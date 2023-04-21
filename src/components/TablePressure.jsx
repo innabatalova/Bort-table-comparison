@@ -7,7 +7,7 @@ import Item from './Item';
 import NoIcon from './NoIcon';
 import YesIcon from './YesIcon';
 
-const Table = () => {
+const TablePressure = () => {
   return (
     <>
     <div className='comparison'>
@@ -197,4 +197,4 @@ const Table = () => {
 
 }
 
-export default Table;
+export default TablePressure;

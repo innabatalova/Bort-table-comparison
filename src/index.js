@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom'
 
 import "../.css/style.css"
 
-import Table from "./components/Table"
+import TablePressure from "./components/TablePressure"
+import TableSteam from "./components/TableSteam"
 
-ReactDOM.render(<Table />, document.getElementById('root'))
+ReactDOM.render(<TableSteam />, document.getElementById('root'))
