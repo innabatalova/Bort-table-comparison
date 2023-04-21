@@ -5,5 +5,6 @@ import "../.css/style.css"
 
 import TablePressure from "./components/TablePressure"
 import TableSteam from "./components/TableSteam"
+import TableDisposer from "./components/TableDisposer"
 
-ReactDOM.render(<TableSteam />, document.getElementById('root'))
+ReactDOM.render(<TableDisposer />, document.getElementById('root'))
