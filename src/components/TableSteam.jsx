@@ -15,19 +15,19 @@ const TableSteam = () => {
           classHeadTitle='comparison-wrapper__title_head'
           classHeadData='comparison-wrapper__data_head'
           data={
-            [<Model src='https://bort-global.ru/images/detailed/1162/2752fc3d-cbb6-11ec-a94e-a4bf01842533_a5rx-kk.jpg'
+            [<Model src='https://bort-global.ru/photo/product/93412871'
               href='https://bort-global.ru/klining/paroochistiteli/paroochistitel-bort-bdr-1200/'
               model='BDR-1200' />,
-            <Model src='https://bort-global.ru/images/detailed/1054/a9eba216-b8ea-11ed-a95b-a4bf01842533_w3kv-ky.jpg'
+              <Model src='https://bort-global.ru/photo/product/93410747'
               href='https://bort-global.ru/klining/paroochistiteli/paroochistitel-bort-bdr-1500-rr/'
               model='BDR-1500-RR' />,
-            <Model src='	https://bort-global.ru/images/detailed/574/fc3bd180-aeb2-11ed-a95b-a4bf01842533_ckcf-bn.jpg'
+              <Model src='https://bort-global.ru/photo/product/93722609'
               href='https://bort-global.ru/klining/paroochistiteli/paroochistitel-bort-bdr-2300-r/'
               model='BDR-2300-R' />,
-            <Model src='https://bort-global.ru/images/detailed/780/e76583e6-553a-11ed-a952-a4bf01842533_5g0d-ke.jpg'
+              <Model src='https://bort-global.ru/photo/product/91279910'
               href='https://bort-global.ru/klining/paroochistiteli/paroochistitel-bdr-2500-rr/'
               model='BDR-2500-RR' />,
-            <Model src='https://bort-global.ru/images/detailed/1054/62b32859-5539-11ed-a952-a4bf01842533_dr59-aa.jpg'
+              <Model src='https://bort-global.ru/photo/product/93410075'
               href='https://bort-global.ru/klining/paroochistiteli/paroochistitel-bort-bdr-2500-rr-iron/'
               model='BDR-2500-RR (Iron)' />]
           } />
@@ -100,16 +100,16 @@ const TableSteam = () => {
           classHeadTitle='comparison-wrapper__title_head'
           classHeadData='comparison-wrapper__data_head'
           data={
-            [<Model src='https://bort-global.ru/images/detailed/1162/5002e7e4-d688-11ec-a94e-a4bf01842533_ov4l-ef.jpg'
+            [<Model src='https://bort-global.ru/photo/product/93412987'
               href='https://bort-global.ru/klining/paroochistiteli/paroochistitel-bort-bdr-2700-r/'
               model='BDR-2700-R' />,
-              <Model src='https://bort-global.ru/images/detailed/1137/72e46046-551e-11ed-a952-a4bf01842533_qmzi-9w.jpg'
+              <Model src='https://bort-global.ru/photo/product/93410969'
               href='https://bort-global.ru/klining/paroochistiteli/paroochistitel-bort-bdr-2800-rr/'
               model='BDR-2800-RR' />,
-              <Model src='https://bort-global.ru/images/detailed/1181/bb2d461f-d687-11ec-a94e-a4bf01842533_4u8y-1c.jpg'
+              <Model src='https://bort-global.ru/photo/product/93722425'
               href='https://bort-global.ru/klining/paroochistiteli/paroochistitel-bort-bdr-3000-rr/'
               model='BDR-3000-RR' />,
-              <Model src='https://bort-global.ru/images/detailed/1162/ce14828b-cbb1-11ec-a94e-a4bf01842533_ckva-3a.jpg'
+              <Model src='https://bort-global.ru/photo/product/93412963'
               href='https://bort-global.ru/klining/paroochistiteli/paroochistitel-bort-bdr-5000-turbo/'
               model='BDR-5000 Turbo' />]
           } />

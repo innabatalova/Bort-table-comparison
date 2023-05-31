@@ -1,6 +1,11 @@
-# Таблица сравнения * вариант компонентный на div
+# Таблица сравнения Bort
 Interface app on React.
 Верстка интерфейса адаптивная на React (функциональные компоненты).
+Посмотреть сейчас https://exquisite-crumble-ce0988.netlify.app/
+Боевой сайт 
+https://bort-global.ru/klining/moyki-vysokogo-davleniya/
+https://bort-global.ru/klining/paroochistiteli/
+https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/
 
 # Technologies used
 - React
@@ -15,4 +20,4 @@ Interface app on React.
 "$" npm start
 
 # Link to deploy
-https://warm-fox-facb0d.netlify.app/
+https://exquisite-crumble-ce0988.netlify.app/

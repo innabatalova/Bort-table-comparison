@@ -15,19 +15,19 @@ const TablePressure = () => {
         classHeadTitle='comparison-wrapper__title_head'
         classHeadData='comparison-wrapper__data_head'
         data={
-          [<Model src='https://bort-global.ru/images/detailed/132/f2d6c8e3-68cb-11e8-aeca-001517e6c84d.jpg'
+          [<Model src='https://bort-global.ru/photo/product/98294101'
             href='https://bort-global.ru/klining/moyki-vysokogo-davleniya/moyka-vysokogo-davleniya-bort-bhr-1600/'
             model='BHR-1600' />,
-            <Model src='https://bort-global.ru/images/detailed/1208/2f09f8a7-6658-11ed-a957-a4bf01842533_3m1l-t8.jpg'
+            <Model src='https://bort-global.ru/photo/product/93415742'
               href='https://bort-global.ru/klining/moyki-vysokogo-davleniya/moyka-vysokogo-davleniya-bort-bhr-1600-compact/'
               model='BHR-1600-COMPACT' />,
-            <Model src='https://bort-global.ru/images/detailed/1208/1098247f-c186-11ed-a95b-a4bf01842533_aigj-8q.jpg'
+            <Model src='https://bort-global.ru/photo/product/93416305'
               href='https://bort-global.ru/klining/moyki-vysokogo-davleniya/moyka-vysokogo-davleniya-bort-bhr-1700-pro/'
               model='BHR-1700-Pro' />,
-            <Model src='https://bort-global.ru/images/detailed/574/74f2c25c-adf1-11ed-a95b-a4bf01842533_ae2o-cq.jpg'
+            <Model src='https://bort-global.ru/photo/product/91276070'
               href='https://bort-global.ru/klining/moyki-vysokogo-davleniya/moyka-vysokogo-davleniya-bort-bhr-2000-pro/'
               model='BHR-2000-Pro' />,
-            <Model src='https://bort-global.ru/images/detailed/1208/e411e040-c185-11ed-a95b-a4bf01842533_31bm-5l.jpg'
+            <Model src='https://bort-global.ru/photo/product/93416411'
               href='https://bort-global.ru/klining/moyki-vysokogo-davleniya/moyka-vysokogo-davleniya-bort-bhr-2000m-pro/'
               model='BHR-2000M-Pro' />]
         } />
@@ -79,19 +79,19 @@ const TablePressure = () => {
           classHeadData='comparison-wrapper__data_head'
           data={
             [
-            <Model src='https://bort-global.ru/images/detailed/1146/4c9050a4-7692-11eb-9ebd-a4bf01648335_ufjt-me.jpg'
+              <Model src='https://bort-global.ru/photo/product/91275721'
               href='https://bort-global.ru/klining/moyki-vysokogo-davleniya/moyka-vysokogo-davleniya-bort-bhr-2000-smart/'
               model='BHR-2000-Smart' />,
-            <Model src='https://bort-global.ru/images/detailed/1208/907cec0e-c185-11ed-a95b-a4bf01842533_z3v0-z9.jpg'
+              <Model src='https://bort-global.ru/photo/product/93416299'
               href='https://bort-global.ru/klining/moyki-vysokogo-davleniya/moyka-vysokogo-davleniya-bort-bhr-2300-pro/'
               model='BHR-2300-Pro' />,
-            <Model src='https://bort-global.ru/images/detailed/896/0e8ff2ae-adf2-11ed-a95b-a4bf01842533_iw0t-4t.jpg'
+              <Model src='https://bort-global.ru/photo/product/91276018'
               href='https://bort-global.ru/klining/moyki-vysokogo-davleniya/moyka-vysokogo-davleniya-bhr-2500r-pro/'
               model='BHR-2500R-Pro' />,
-            <Model src='https://bort-global.ru/images/detailed/1208/62a8a647-c185-11ed-a95b-a4bf01842533_04hz-pb.jpg'
+              <Model src='https://bort-global.ru/photo/product/93416121'
               href='https://bort-global.ru/klining/moyki-vysokogo-davleniya/moyka-vysokogo-davleniya-bort-bhr-2700-pro/'
               model='BHR-2700-Pro' />,
-            <Model src='https://bort-global.ru/images/detailed/1208/44fa0e94-c185-11ed-a95b-a4bf01842533_6ycs-v0.jpg'
+              <Model src='https://bort-global.ru/photo/product/93416114'
               href='https://bort-global.ru/klining/moyki-vysokogo-davleniya/moyka-vysokogo-davleniya-bort-bhr-2700-r/'
               model='BHR-2700-R' />]
           } />
@@ -143,16 +143,16 @@ const TablePressure = () => {
         classHeadTitle='comparison-wrapper__title_head'
         classHeadData='comparison-wrapper__data_head'
         data={
-          [<Model src='https://bort-global.ru/images/detailed/629/97004cc1-9277-11e9-a62c-a4bf01648335.jpg'
+          [<Model src='https://bort-global.ru/photo/product/93720100'
             href='https://bort-global.ru/klining/moyki-vysokogo-davleniya/moyka-vysokogo-davleniya-bort-kex-2500/'
             model='KEX-2500' />,
-            <Model src='https://bort-global.ru/images/detailed/1208/2216f7ea-c185-11ed-a95b-a4bf01842533_bj0j-5o.jpg'
+            <Model src='https://bort-global.ru/photo/product/93416145'
               href='https://bort-global.ru/klining/moyki-vysokogo-davleniya/moyka-vysokogo-davleniya-bort-kex-2700-r/'
             model='KEX-2700-R' />,
-            <Model src='https://bort-global.ru/images/detailed/629/637cb71a-d22b-11ed-a95b-a4bf01842533_6nkl-v7.jpg'
+            <Model src='https://bort-global.ru/photo/product/91276308'
               href='https://bort-global.ru/klining/moyki-vysokogo-davleniya/moyka-vysokogo-davleniya-bort-kex-3000/'
             model='KEX-3000' />,
-            <Model src='https://bort-global.ru/images/detailed/629/72383320-d22e-11ed-a95b-a4bf01842533_e17a-j0.jpg'
+            <Model src='https://bort-global.ru/photo/product/91278166'
               href='https://bort-global.ru/klining/moyki-vysokogo-davleniya/moyka-vysokogo-davleniya-bort-kex-3500/'
             model='KEX-3500' />]
         } />

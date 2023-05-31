@@ -15,19 +15,19 @@ const TableDisposer = () => {
           classHeadTitle='comparison-wrapper__title_head'
           classHeadData='comparison-wrapper__data_head'
           data={
-            [<Model src='https://bort-global.ru/images/detailed/1053/c603bddf-0525-11ea-a645-a4bf01648335.jpg'
+            [<Model src='https://bort-global.ru/photo/product/93410754'
               href='https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/izmelchitel-pischevyh-othodov-bort-alligator/'
               model='Alligator' />,
-              <Model src='https://bort-global.ru/images/detailed/1053/c39aadba-0527-11ea-a645-a4bf01648335.jpg'
+              <Model src='https://bort-global.ru/photo/product/93410761'
               href='https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/izmelchitel-pischevyh-othodov-bort-alligator-plus/'
               model='Alligator Plus' />,
-              <Model src='https://bort-global.ru/images/detailed/1053/13cc4990-e8da-11e9-a63c-a4bf01648335.jpg'
+              <Model src='https://bort-global.ru/photo/product/93410778'
               href='https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/izmelchitel-pischevyh-othodov-bort-alligator-max/'
               model='Alligator Max' />,
-              <Model src='https://bort-global.ru/images/detailed/1208/1e1ed0a9-ad51-11ed-a95b-a4bf01842533_j1w1-dl.jpg'
+              <Model src='https://bort-global.ru/photo/product/93414707'
               href='https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/izmelchitel-pischevyh-othodov-bort-alligator-x/'
               model='Alligator X' />,
-              <Model src='https://bort-global.ru/images/detailed/1211/7cb4bc28-d784-11ed-a95c-a4bf01842533_sk7j-9m.jpg'
+              <Model src='https://bort-global.ru/photo/product/93417425'
               href='https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/izmelchitel-pischevyh-othodov-bort-alligator-mega/'
               model='Alligator Mega' />]
           } />
@@ -59,8 +59,11 @@ const TableDisposer = () => {
         <Wrapper title={<Title text='Возможность Reset' />}
           data={[<Item data={<YesIcon />} />, <Item data={<YesIcon />} />, <Item data={<YesIcon />} />, <Item data={<YesIcon />} />, <Item data={<YesIcon />} />,
           ]} />
-        <Wrapper title={<Title text='Плавный пуск' />}
+        <Wrapper title={<Title text='Тихий запуск' />}
           data={[<Item data={<YesIcon />} />, <Item data={<YesIcon />} />, <Item data={<YesIcon />} />, <Item data={<NoIcon />} />, <Item data={<NoIcon />} />,
+          ]} />
+        <Wrapper title={<Title text='Плавный пуск' />}
+          data={[<Item data={<NoIcon />} />, <Item data={<NoIcon />} />, <Item data={<NoIcon />} />, <Item data={<YesIcon />} />, <Item data={<NoIcon />} />,
           ]} />
         <Wrapper title={<Title text='Автоматический реверс при заклинивании' />}
           data={[<Item data={<NoIcon />} />, <Item data={<NoIcon />} />, <Item data={<YesIcon />} />, <Item data={<NoIcon />} />, <Item data={<YesIcon />} />,
@@ -87,16 +90,16 @@ const TableDisposer = () => {
           classHeadTitle='comparison-wrapper__title_head'
           classHeadData='comparison-wrapper__data_head'
           data={
-            [<Model src='https://bort-global.ru/images/detailed/396/a0b3e0b9-41cf-11ea-a656-a4bf01648335.jpg'
+            [<Model src='https://bort-global.ru/photo/product/91275752'
               href='https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/izmelchitel-othodov-bort-master-eco/'
               model='Master ECO' />,
-              <Model src='https://bort-global.ru/images/detailed/396/1c5ad7a6-5f1a-11eb-9ebc-a4bf01648335_ts44-50.jpg'
+              <Model src='https://bort-global.ru/photo/product/91275769'
               href='https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/izmelchitel-othodov-bort-titan-4000/'
               model='TITAN 4000' />,
-              <Model src='https://bort-global.ru/images/detailed/396/1e3eaa7e-b8ef-11e9-a632-a4bf01648335.jpg'
+              <Model src='https://bort-global.ru/photo/product/91275776'
               href='https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/izmelchitel-othodov-bort-titan-4000-plus/'
               model='TITAN 4000 Plus' />,
-              <Model src='https://bort-global.ru/images/detailed/1046/700973cb-5f1b-11eb-9ebc-a4bf01648335_foal-ym.jpg'
+              <Model src='https://bort-global.ru/photo/product/93410242'
               href='https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/izmelchitel-pischevyh-othodov-bort-titan-4000-control/'
               model='TITAN 4000 Control' />]
           } />
@@ -128,6 +131,9 @@ const TableDisposer = () => {
         <Wrapper title={<Title text='Возможность Reset' />}
           data={[<Item data={<YesIcon />} />, <Item data={<YesIcon />} />, <Item data={<YesIcon />} />, <Item data={<YesIcon />} />,
           ]} />
+        <Wrapper title={<Title text='Тихий запуск' />}
+          data={[<Item data={<NoIcon />} />, <Item data={<NoIcon />} />, <Item data={<NoIcon />} />, <Item data={<NoIcon />} />,
+          ]} />
         <Wrapper title={<Title text='Плавный пуск' />}
           data={[<Item data={<NoIcon />} />, <Item data={<NoIcon />} />, <Item data={<NoIcon />} />, <Item data={<NoIcon />} />,
           ]} />
@@ -156,16 +162,16 @@ const TableDisposer = () => {
           classHeadTitle='comparison-wrapper__title_head'
           classHeadData='comparison-wrapper__data_head'
           data={
-            [<Model src='https://bort-global.ru/images/detailed/396/97394343-d7ef-11ea-9eb8-a4bf01648335_9afq-sh.jpg'
+            [<Model src='https://bort-global.ru/photo/product/91275783'
               href='https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/izmelchitel-othodov-bort-titan-5000/'
               model='TITAN 5000' />,
-              <Model src='https://bort-global.ru/images/detailed/1046/a02435da-e063-11ea-9eb8-a4bf01648335_fvjc-mb.jpg'
+              <Model src='https://bort-global.ru/photo/product/93410259'
               href='https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/izmelchitel-pischevyh-othodov-bort-titan-5000-control/'
               model='TITAN 5000 Control' />,
-              <Model src='https://bort-global.ru/images/detailed/1183/b3e9c431-2d24-11ed-a950-a4bf01842533_qy7y-mo.jpg'
+              <Model src='https://bort-global.ru/photo/product/93413519'
               href='https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/izmelchitel-pischevyh-othodov-bort-titan-7000/'
               model='TITAN 7000' />,
-              <Model src='https://bort-global.ru/images/detailed/1209/e872e1cb-ad28-11ed-a95b-a4bf01842533_ypyd-hy.jpg'
+              <Model src='https://bort-global.ru/photo/product/93415827'
               href='https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/izmelchitel-pischevyh-othodov-bort-titan-9000/'
               model='TITAN 9000' />]
           } />
@@ -197,8 +203,11 @@ const TableDisposer = () => {
         <Wrapper title={<Title text='Возможность Reset' />}
           data={[<Item data={<YesIcon />} />, <Item data={<YesIcon />} />, <Item data={<YesIcon />} />, <Item data={<YesIcon />} />,
           ]} />
-        <Wrapper title={<Title text='Плавный пуск' />}
+        <Wrapper title={<Title text='Тихий запуск' />}
           data={[<Item data={<NoIcon />} />, <Item data={<NoIcon />} />, <Item data={<NoIcon />} />, <Item data={<YesIcon />} />,
+          ]} />
+        <Wrapper title={<Title text='Плавный пуск' />}
+          data={[<Item data={<NoIcon />} />, <Item data={<NoIcon />} />, <Item data={<NoIcon />} />, <Item data={<YesIcon />} />
           ]} />
         <Wrapper title={<Title text='Автоматический реверс при заклинивании' />}
           data={[<Item data={<NoIcon />} />, <Item data={<NoIcon />} />, <Item data={<NoIcon />} />, <Item data={<YesIcon />} />,
@@ -225,13 +234,13 @@ const TableDisposer = () => {
           classHeadTitle='comparison-wrapper__title_head'
           classHeadData='comparison-wrapper__data_head'
           data={
-            [<Model src='https://bort-global.ru/images/detailed/396/ad71cb0c-d7f1-11ea-9eb8-a4bf01648335_wmnk-sk.jpg'
+            [<Model src='https://bort-global.ru/photo/product/91275790'
               href='https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/izmelchitel-othodov-bort-titan-max-power/'
               model='TITAN MAX Power' />,
-              <Model src='https://bort-global.ru/images/detailed/1046/0042d363-e065-11ea-9eb8-a4bf01648335_rsy5-xf.jpg'
+              <Model src='https://bort-global.ru/photo/product/93410266'
               href='https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/izmelchitel-pischevyh-othodov-bort-titan-max-power-fullcontrol/'
               model='TITAN MAX FullControl' />,
-              <Model src='https://bort-global.ru/images/detailed/1146/5ff5a1e1-88f9-11ec-a94d-a4bf01842533_iwir-zn.jpg'
+              <Model src='https://bort-global.ru/photo/product/93411812'
               href='https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/izmelchitel-pischevyh-othodov-bort-titan-extra/'
               model='TITAN Extra' />]
           } />
@@ -263,8 +272,11 @@ const TableDisposer = () => {
         <Wrapper title={<Title text='Возможность Reset' />}
           data={[<Item data={<YesIcon />} />, <Item data={<YesIcon />} />, <Item data={<YesIcon />} />,
           ]} />
-        <Wrapper title={<Title text='Плавный пуск' />}
+        <Wrapper title={<Title text='Тихий запуск' />}
           data={[<Item data={<NoIcon />} />, <Item data={<NoIcon />} />, <Item data={<YesIcon />} />,
+          ]} />
+        <Wrapper title={<Title text='Плавный пуск' />}
+          data={[<Item data={<NoIcon />} />, <Item data={<NoIcon />} />, <Item data={<NoIcon />} />
           ]} />
         <Wrapper title={<Title text='Автоматический реверс при заклинивании' />}
           data={[<Item data={<NoIcon />} />, <Item data={<NoIcon />} />, <Item data={<YesIcon />} />,
