@@ -21,3 +21,9 @@ https://bort-global.ru/bytovaya-tehnika/izmelchiteli-othodov/
 
 # Link to deploy
 https://exquisite-crumble-ce0988.netlify.app/
+
+
+
+
+
+

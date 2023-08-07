@@ -7,9 +7,7 @@ import TableDisposer from "./components/TableDisposer"
 const WrapperTables = () => {
   return (
     <>
-      <TablePressure />,
-      <TableSteam />,
-      <TableDisposer />
+      <TableSteam />
     </>
   );
 
